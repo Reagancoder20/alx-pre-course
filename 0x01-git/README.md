@@ -1,2 +1,1 @@
-my first commit,
-changes are now made in the github!
+my first commit
