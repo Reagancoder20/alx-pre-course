@@ -1,2 +1,2 @@
-be upto date
+be up to date
 
